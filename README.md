@@ -6,5 +6,5 @@ pas1
 
 Repositório para a disciplina de Projeto Avançado de Software, UFPB
 
-fb.com/BrunoNSantos
+fb.com/BrunoNSantos<br>
 twitter.com/BrunoNSantos
